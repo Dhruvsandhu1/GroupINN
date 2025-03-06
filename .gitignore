@@ -1,0 +1,10 @@
+venv/
+Data1/
+Data2/
+Data3/
+Data4/
+venv1/
+model_dir/
+export_dir/
+Data/
+Data_fetching/

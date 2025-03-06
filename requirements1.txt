@@ -1,0 +1,6 @@
+ipykernel
+urllib3
+requests
+pandas
+scipy
+scikit-learn
